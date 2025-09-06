@@ -24,4 +24,7 @@ ASK {
   { <https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/0800262039> 
       arco-core:hasPart <https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/SalaRossa_PalazzoAccursio> . 
     <https://w3id.org/arco/resource/ArchitecturalOrLandscapeHeritage/SalaRossa_PalazzoAccursio> rdfs:label "Sala Rossa"@it . }
-}
+
+---
+
+Check the [Participants Page](participants.md) for the list of contributors.
