@@ -2,6 +2,15 @@
 Trials for exam
 # Sala Rossa
 
+## Investigation with Large Language Models
+
+### Zero-Shot Prompting
+**Prompt:** Does Palazzo d’Accursio contain a hall called “Sala Rossa”?
+
+**Responses:**
+- **ChatGPT (Ai):** Yes, Palazzo d’Accursio in Bologna contains the Sala Rossa (“Red Hall”), historically used for official receptions and decorated with red damask. The hall is notable for its ornate furnishings and the artworks that highlight its political and ceremonial importance.
+- **Gemini:** Yes. The Sala Rossa is part of Palazzo d’Accursio, located in the civic heart of Bologna. It is a representative hall known for its red décor and for hosting institutional events.
+- **Mistral:** Yes, the Sala Rossa belongs to Palazzo d’Accursio. It is an important ceremonial space with strong artistic relevance, characterized by its red interiors and historical decorative program.
 ## SPARQL ASK Query
 ```sparql
 PREFIX arco-core: <https://w3id.org/arco/ontology/core/>
